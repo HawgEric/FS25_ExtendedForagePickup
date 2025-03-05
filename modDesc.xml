@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="94">
+    <author>Warthog Mods</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Extended Forage Harvester Pickup</en>
+        <de>Feldhäcksler Stroh Und Heusammlung</de>
+        <fr>Ramassage Allongé Pour Ensileuse</fr>
+    </title>
+    <description>
+        <en>
+            <![CDATA[            
+Collect windrows of hay and straw with forage harvester pickup headers.
+]]>
+        </en>
+        <de>
+            <![CDATA[
+Sammeln Sie Schwaden aus Heu und Stroh mit den Pickup-Vorsätzen des Feldhäckslers.       
+]]>
+        </de>
+        <fr>
+            <![CDATA[
+Ramassez les andains de foin et de paille avec les têtes de ramassage des ensileuses.
+]]>
+        </fr>
+    </description>
+    <iconFilename>icon_ExtendedForagePickup.dds</iconFilename>
+    <multiplayer supported="true" />
+    <fillTypes filename="xml/customFillType.xml" />        
+</modDesc>
